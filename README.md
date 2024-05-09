@@ -17,7 +17,7 @@
 </details>
 
 <hr>
- <img align="right" width="250" src="https://st3.depositphotos.com/1007566/13936/v/600/depositphotos_139365992-stock-illustration-spy-avatar-isolated-icon.jpg" alt="Coding gif" />
+ <img align="right" width="200" src="img gitHub - Cópia.webp" alt="Coding gif" />
  
 - 🌱 Just finished a full stack programming bootcamp
 
