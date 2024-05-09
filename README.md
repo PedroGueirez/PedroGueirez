@@ -27,7 +27,7 @@
 
 <h3 align="left">Let's get in touch :</h3>
 <p align="left">
- <a href="www.linkedin.com/in/pedro-gueirez" target="_blank">
+ <a href="www.linkedin.com/in/pedro-gueirez/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
 
@@ -40,7 +40,7 @@
 
 <hr>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogueirez&show_icons=true&locale=en&layout=compact&theme=radical" alt="zeca" style="display: inline-block; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogueirez&show_icons=true&locale=en&layout=compact&theme=radical" alt="pedro" style="display: inline-block; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=pedrogueirez&show_icons=true&locale=en&theme=radical" alt="pedro" style="display: inline-block; margin-left: 10px;">
 </div>
  
