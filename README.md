@@ -17,7 +17,7 @@
 </details>
 
 <hr>
- <img align="right" width="220" src="img gitHub - Cópia.webp" alt="Coding gif" />
+ <img align="right" width="210" src="img gitHub - Cópia.webp" alt="Coding gif" />
  
 - 🌱 Just finished a full stack programming bootcamp
 
