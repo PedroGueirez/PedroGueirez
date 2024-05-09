@@ -40,8 +40,8 @@
 
 <hr>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrogueirez&show_icons=true&locale=en&layout=compact&theme=radical" alt="pedro" style="display: inline-block; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrogueirez&show_icons=true&locale=en&theme=radical" alt="pedro" style="display: inline-block; margin-left: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroGueirez&show_icons=true&locale=en&layout=compact&theme=radical" alt="pedro" style="display: inline-block; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=PedroGueirez&show_icons=true&locale=en&theme=radical" alt="pedro" style="display: inline-block; margin-left: 10px;">
 </div>
  
 <p>
