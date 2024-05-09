@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **pedro.gueirez@gmail.com**
 
-- ⚡ Looking for a new job in the area // **Want To Keep on Learning 📚 .**
+- ⚡ Looking for a new job in the area 
 
 <h3 align="left">Let's get in touch :</h3>
 <p align="left">
